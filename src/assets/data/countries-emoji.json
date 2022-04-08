@@ -193,34 +193,6 @@
       "kor": "앵귈라"
     }
   },
-  "AQ": {
-    "currency": [],
-    "callingCode": [],
-    "region": "Antarctic",
-    "subregion": "",
-    "flag": "flag-aq",
-    "name": {
-      "common": "Antarctica",
-      "ces": "Antarktida",
-      "cym": "Yr Antarctig",
-      "deu": "Antarktis",
-      "fra": "Antarctique",
-      "hrv": "Antarktika",
-      "ita": "Antartide",
-      "jpn": "南極",
-      "nld": "Antarctica",
-      "por": "Antártida",
-      "rus": "Антарктида",
-      "slk": "Antarktída",
-      "spa": "Antártida",
-      "fin": "Etelämanner",
-      "est": "Antarktika",
-      "zho": "南极洲",
-      "pol": "Antarktyka",
-      "urd": "انٹارکٹکا",
-      "kor": "남극"
-    }
-  },
   "AG": {
     "currency": ["XCD"],
     "callingCode": ["1268"],
